@@ -1,12 +1,29 @@
+# 🐘 PHP Repository
 
-# 🟣 PHP
+## 📌 Description
+This repository contains projects developed in **PHP**.
 
-Repositorio dedicado a proyectos y aprendizaje en PHP.
+Focused on backend development and web applications.
 
-## 📂 Estructura
-- projects/ → proyectos completos
-- notes/ → apuntes y teoría
+## 🚀 What you will find here
+- 🌐 Web applications
+- 🗄️ Database connections
+- 🔐 Authentication systems
+- ⚙️ Backend logic
 
-## 🚀 Proyectos
-En construcción.
-"@ | Set-Content README.md
+## 🛠️ Technologies
+- PHP
+- MySQL
+
+## 📁 Structure
+project-name/
+│── src/
+│── public/
+│── config/
+│── README.md
+
+## 📌 Notes
+Projects will be uploaded progressively.
+
+## 👨‍💻 Author
+- GitHub: https://github.com/AlexEgea
