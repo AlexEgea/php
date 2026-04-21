@@ -17,14 +17,6 @@ Focused on backend and full-stack applications.
 - MySQL
 - Blade
 
-## 📁 Structure
-project-name/
-│── app/
-│── routes/
-│── resources/
-│── database/
-│── README.md
-
 ## 📌 Notes
 Projects will be uploaded progressively.
 
