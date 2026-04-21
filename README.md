@@ -15,13 +15,6 @@ Focused on backend development and web applications.
 - PHP
 - MySQL
 
-## 📁 Structure
-project-name/
-│── src/
-│── public/
-│── config/
-│── README.md
-
 ## 📌 Notes
 Projects will be uploaded progressively.
 
